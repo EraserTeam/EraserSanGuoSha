@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="OperationButtonSkin" states="up,down,disabled" minHeight="36" minWidth="100" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+    <e:Image width="100%" height="100%" scale9Grid="14,4,75,27"
+             source="OperationButton_png"
+             source.down="OperationButtonDown_png"
+             source.disabled="OperationButtonDisable_png"/>
+    <e:Label id="labelDisplay" top="8" bottom="8" left="8" right="8"
+             size="18"
+             verticalAlign="middle" textAlign="center" text="确 定" fontFamily="SimHei" alpha="0.7" textColor="0xfff2f2"/>
+    <e:Image id="iconDisplay" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>

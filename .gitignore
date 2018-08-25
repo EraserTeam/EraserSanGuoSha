@@ -1,0 +1,9 @@
+server/build/
+server/node_modules/
+server/package-lock.json
+server/.vscode/
+client/bin-debug/
+client/bin-release/
+client/libs/
+client/.wing/
+client/manifest.json

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="OthersGeneralAreaSkin" width="150" height="150" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*"  minWidth="139" minHeight="150">
+	<e:Image id="img_selected" width="169" height="146" y="-8" anchorOffsetX="0" anchorOffsetY="0" source="GeneralSelected_png" right="-13" visible="false"/>
+	<e:Image width="139" height="126" y="2" source="GeneralBG_png" right="2"/>
+	<e:Image id="img_general" width="131" height="118" y="5" source="ShiBing_png" fillMode="scale" right="7"/>
+	<e:Image id="img_backSideState" width="131" height="118" x="12" y="5" source="BackSideState_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+	<e:Image id="img_dark" width="131" height="118" y="5" anchorOffsetX="0" anchorOffsetY="0" source="GeneralDark_png" right="7" visible="false"/>
+	<e:Image id="img_generalNameBG" width="24" height="64" y="5" source="QunBG" fillMode="scale" anchorOffsetX="0" right="114" anchorOffsetY="0"/>
+	<e:Image id="img_country" width="19" height="18" y="3" source="QUN_png" fillMode="scale" right="118" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image id="img_seatNum" width="30" height="12" source="Seat2_png" y="134" horizontalCenter="-2"/>
+	<e:Label id="lb_generalName" text="士兵" y="21" fontFamily="Microsoft JhengHei" size="12" bold="true" anchorOffsetX="0" width="17" anchorOffsetY="0" height="40" right="117"/>
+	<ns1:OthersHPArea id="HPArea" width="13" height="64" right="7" bottom="25" skinName="OthersHPAreaSkin"/>
+	<ns1:CardCountLabel id="cardCountLabel" width="25" height="19" y="62.66" right="121" skinName="CardCountLabelSkin"/>
+	<ns1:OthersEquip id="equipUI0" width="100" height="10" x="12" y="84" anchorOffsetX="0" anchorOffsetY="0"/>
+	<ns1:OthersEquip id="equipUI1" width="100" height="10" x="12" y="94" anchorOffsetX="0" anchorOffsetY="0"/>
+	<ns1:OthersEquip id="equipUI2" width="100" height="10" x="12" y="104" anchorOffsetX="0" anchorOffsetY="0"/>
+	<ns1:OthersEquip id="equipUI3" width="100" height="10" x="12" y="114" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image id="img_phase" width="100" height="12" y="122" source="PlayPhase_png" fillMode="scale" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0"/>
+	<e:Image id="img_helpMe" width="80" height="20" x="32" y="52" source="HelpMe_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+	<e:Image id="img_deadFlag" width="104" height="75" x="26" y="24" source="FanZeiDead_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+	<ns1:IdentityButton id="btn_identity" width="22" height="16" x="122" y="12" skinName="IdentityButtonSkin"/>
+</e:Skin>

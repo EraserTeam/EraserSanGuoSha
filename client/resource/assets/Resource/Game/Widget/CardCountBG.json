@@ -1,0 +1,6 @@
+{"file":"CardCountBG.png","frames":{
+"WeiCardCountBG":{"x":0,"y":0,"w":30,"h":19,"offX":0,"offY":0,"sourceW":30,"sourceH":19},
+"ShuCardCountBG":{"x":30,"y":0,"w":30,"h":19,"offX":0,"offY":0,"sourceW":30,"sourceH":19},
+"WuCardCountBG":{"x":60,"y":0,"w":30,"h":19,"offX":0,"offY":0,"sourceW":30,"sourceH":19},
+"QunCardCountBG":{"x":90,"y":0,"w":30,"h":19,"offX":0,"offY":0,"sourceW":30,"sourceH":19},
+"NoneCardCountBG":{"x":120,"y":0,"w":30,"h":19,"offX":0,"offY":0,"sourceW":30,"sourceH":19}}}

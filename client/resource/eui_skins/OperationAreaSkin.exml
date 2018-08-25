@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="OperationAreaSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*"  minHeight="36" minWidth="942">
+	<e:Button id="btn_ok" label="确 定" left="346" bottom="0" skinName="OperationButtonSkin" locked="true"/>
+	<e:Button id="btn_cancel" label="取 消" left="531" bottom="0" skinName="OperationButtonSkin" locked="true"/>
+	<e:Button id="btn_over" label="结束" x="679.97" skinName="OverOperationButtonSkin" bottom="0" locked="true"/>
+	<e:Group width="374" height="100%" y="0" horizontalCenter="0" touchThrough="true">
+		<e:Button id="btn_heart" label="" skinName="OperationButtonSkin" x="0" y="0" icon="SuitButton_Heart_png" anchorOffsetX="0" width="86" scaleX="1" scaleY="1" visible="false"/>
+		<e:Button id="btn_diamond" label="" skinName="OperationButtonSkin" x="96" y="0" icon="SuitButton_Diamond_png" width="86" scaleX="1" scaleY="1" visible="false"/>
+		<e:Button id="btn_spade" label="" skinName="OperationButtonSkin" x="192" y="0" icon="SuitButton_Spade_png" width="86" scaleX="1" scaleY="1" visible="false"/>
+		<e:Button id="btn_club" label="" skinName="OperationButtonSkin" x="288" y="0" icon="SuitButton_Club_png" width="86" scaleX="1" scaleY="1" visible="false"/>
+	</e:Group>
+</e:Skin>

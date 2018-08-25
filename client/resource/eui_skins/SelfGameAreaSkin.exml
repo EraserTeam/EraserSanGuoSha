@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SelfGameAreaSkin" width="1136" height="118" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" >
+	<e:Image width="997" height="94" source="SelfHandBG_png" fillMode="scale" left="0" bottom="0"/>
+	<ns1:SelfGeneralArea id="generalArea" width="191" height="118" anchorOffsetX="0" anchorOffsetY="0" right="0" bottom="0" skinName="SelfGeneralAreaSkin"/>
+	<e:Image id="img_phase" width="160" height="17" x="50" y="8" anchorOffsetX="0" anchorOffsetY="0" source="SelfPlayPhase_png"/>
+	<e:Scroller width="762" height="94" x="164" y="19" anchorOffsetX="0" scrollPolicyH="auto" scrollPolicyV="off" skinName="skins.ScrollerSkin">
+		<e:List id="list_handCards" x="0" y="0" allowMultipleSelection="true" itemRenderer="CardRenderer" useVirtualLayout="false">
+		<e:layout>
+			<e:HorizontalLayout gap="2" paddingTop="11" paddingBottom="1" paddingLeft="2" paddingRight="0"/>
+		</e:layout>
+		</e:List>
+	</e:Scroller>
+	<ns1:CardCountLabel id="cardCountLabel" width="25" height="19" x="934" y="86" skinName="CardCountLabelSkin"/>
+	<ns1:SelfEquip id="equipUI0" width="139" height="16" x="7" y="28" anchorOffsetX="0"/>
+	<ns1:SelfEquip id="equipUI1" width="139" height="16" x="7" y="52" anchorOffsetX="0"/>
+	<ns1:SelfEquip id="equipUI2" width="139" height="16" x="7" y="76" anchorOffsetX="0"/>
+	<ns1:SelfEquip id="equipUI3" width="139" height="16" x="7" y="100" anchorOffsetX="0"/>
+	<e:Image id="img_deadFlag" width="104" height="75" y="33" source="FanZeiDead_png" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" visible="false"/>
+</e:Skin>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="OthersHPAreaSkin" width="13" height="64" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<e:Image width="100%" height="100%" x="0" y="0" source="HPBG_png" fillMode="scale" locked="true"/>
+	<e:Group id="group_HP" width="100%" height="100%" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Image width="11" height="11" anchorOffsetX="0" anchorOffsetY="0" source="GreenHPSmall" fillMode="scale" horizontalCenter="0" bottom="2" locked="true"/>
+		<e:Image width="11" anchorOffsetX="0" anchorOffsetY="0" source="GreenHPSmall" fillMode="scale" horizontalCenter="0" bottom="38" height="11" x="1" y="3" scaleX="1" scaleY="1" locked="true"/>
+		<e:Image width="11" height="11" anchorOffsetX="0" anchorOffsetY="0" source="GreenHPSmall" fillMode="scale" horizontalCenter="0" bottom="26" locked="true"/>
+		<e:Image width="11" height="11" anchorOffsetX="0" anchorOffsetY="0" source="GreenHPSmall" fillMode="scale" horizontalCenter="0" bottom="14" locked="true"/>
+		<e:Image width="11" anchorOffsetX="0" anchorOffsetY="0" source="GreenHPSmall" fillMode="scale" horizontalCenter="0" bottom="50" x="1" scaleX="1" scaleY="1" height="11" locked="true"/>
+	</e:Group>
+</e:Skin>

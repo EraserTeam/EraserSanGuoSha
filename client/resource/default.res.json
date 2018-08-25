@@ -1,0 +1,2006 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,egret_icon_png,description_json,QUN_png,SHU_png,WEI_png,WU_png,Background1_png,Seat1_png,Seat2_png,Seat3_png,Seat4_png,Seat5_png,Seat6_png,Seat7_png,Seat8_png,SelfSeat1_png,SelfSeat2_png,SelfSeat3_png,SelfSeat4_png,SelfSeat5_png,SelfSeat6_png,SelfSeat7_png,SelfSeat8_png,GeneralBG_png,HPBG_png,SelfGeneralBorder_png,SelfHandBG_png,SelfHPBG_png,SelfSeatBG_png,Card_Sha_png,Card_Shan_png,Cards_json,Card_ZiXing_png,Card_Back_png,Card_BaGuaZhen_png,Card_ChiTu_png,Card_CiXiongShuangGuJian_png,Card_DaYuan_png,Card_DiLu_png,Card_FangTianHuaJi_png,Card_GuanShiFu_png,Card_GuoHeChaiQiao_png,Card_HanBingJian_png,Card_HuaLiu_png,Card_JieDaoShaRen_png,Card_JueDou_png,Card_JueYing_png,Card_LeBuSiShu_png,Card_NanManRuQin_png,Card_QiLinGong_png,Card_QingGangJian_png,Card_QingLongYanYueDao_png,Card_RenWangDun_png,Card_ShanDian_png,Card_ShunShouQianYang_png,Card_Tao_png,Card_TaoYuanJieYi_png,Card_WanJianQiFa_png,Card_WuGuFengDeng_png,Card_WuXieKeJi_png,Card_WuZhongShengYou_png,Card_ZhangBaSheMao_png,Card_ZhuaHuangFeiDian_png,Card_ZhuGeLianNu_png,Card_CannotUse_png,DiscardPhase_png,DrawPhase_png,JudgePhase_png,OverPhase_png,PlayPhase_png,RoundBegin_png,SelfDiscardPhase_png,SelfDrawPhase_png,SelfJudgePhase_png,SelfOverPhase_png,SelfPlayPhase_png,SelfRoundBegin_png,OperationButton_png,OperationButtonDown_png,OperationButtonDisable_png,OverOperationButton_png,OverOperationButtonDown_png,OverOperationButtonDisable_png,GeneralDark_png,GeneralSelected_png,SmallLeBuSiShu_png,BigLeBuSiShu_png,Card_Unknown_png,SmallShanDian_png,BigShanDian_png,SelfRenWangDun_png,OthersRenWangDun_png,SelfBaGuaZhen_png,OthersBaGuaZhen_png,WindowBG_png,WindowTitleBG_png,WindowCardLabelBG_png,SelfZiXing_png,OthersChiTu_png,OthersDaYuan_png,OthersDiLu_png,OthersHuaLiu_png,OthersJueYing_png,OthersZhuaHuangFeiDian_png,OthersZiXing_png,SelfChiTu_png,SelfDaYuan_png,SelfDiLu_png,SelfHuaLiu_png,SelfJueYing_png,SelfZhuaHuangFeiDian_png,OthersCiXiongShuangGuJian_png,OthersFangTianHuaJi_png,OthersGuanShiFu_png,OthersHanBingJian_png,OthersQiLinGong_png,OthersQingGangJian_png,OthersQingLongYanYueDao_png,OthersZhangBaSheMao_png,OthersZhuGeLianNu_png,SelfCiXiongShuangGuJian_png,SelfFangTianHuaJi_png,SelfGuanShiFu_png,SelfHanBingJian_png,SelfQiLinGong_png,SelfQingGangJian_png,SelfQingLongYanYueDao_png,SelfZhangBaSheMao_png,SelfZhuGeLianNu_png,bgm_mp3,CardCountBG,GeneralNameBG,SelfGeneralNameBG,HPBig,HPSmall,SuitNumber,EquipSelectedBorder_json,EquipSelectedBorder_png,SkillButton_Normal_Down_png,SkillButton_Normal_Up_png,SkillButton_Normal_Disabled_png,Female_GuoHeChaiQiao_mp3,Female_JieDaoShaRen_mp3,Female_JueDou_mp3,Female_LeBuSiShu_mp3,Female_NanManRuQin_mp3,Female_Sha_mp3,Female_Shan_mp3,Female_ShanDian_mp3,Female_ShunShouQianYang_mp3,Female_Tao_mp3,Female_TaoYuanJieYi_mp3,Female_WanJianQiFa_mp3,Female_WuGuFengDeng_mp3,Female_WuXieKeJi_mp3,Female_WuZhongShengYou_mp3,Male_GuoHeChaiQiao_mp3,Male_JieDaoShaRen_mp3,Male_JueDou_mp3,Male_LeBuSiShu_mp3,Male_NanManRuQin_mp3,Male_Sha_mp3,Male_Shan_mp3,Male_ShanDian_mp3,Male_ShunShouQianYang_mp3,Male_TaoYuanJieYi_mp3,Male_WanJianQiFa_mp3,Male_WuGuFengDeng_mp3,Male_WuXieKeJi_mp3,Male_WuZhongShengYou_mp3,EquipArm_mp3,EquipArmor_mp3,EquipHorse_mp3,Hurt_mp3,ShanDian_mp3,SkillButton_Awake_Disabled_png,SkillButton_Awake_Down_png,SkillButton_Awake_Up_png,SkillButton_Limit_Disabled_png,SkillButton_Limit_Down_png,SkillButton_Limit_Up_png,SkillButton_Lock_Disabled_png,SkillButton_Lock_Down_png,SkillButton_Lock_Up_png,SkillSelectedBorder_png,SkillSelectedBorder_json,SoundLink_json,Identity_FanZei_png,Identity_NeiJian_png,Identity_Unknown_png,Identity_ZhongChen_png,Identity_ZhuGong_png,TargetLine_png,CardEffect_Tao_png,CardEffect_Tao_json,CardEffect_Sha_Black_png,CardEffect_Sha_Red_png,CardEffect_Shan_png,CardEffect_Shan_json,CardEffect_Sha_Black_json,CardEffect_Sha_Red_json,Effect_LoseHP_png,Effect_Hurt_json,Effect_Hurt_png,Effect_LoseHP_json,Effect_BingLiangCunDuan_json,Effect_BingLiangCunDuan_png,Effect_LeBuSiShu_json,Effect_LeBuSiShu_png,Effect_ShanDian_json,Effect_ShanDian_png,SkillEffect_$ZhuGeLianNu_png,SkillEffect_$BaGuaZhen_json,SkillEffect_$BaGuaZhen_png,SkillEffect_$CiXiongShuangGuJian_json,SkillEffect_$CiXiongShuangGuJian_png,SkillEffect_$FangTianHuaJi_json,SkillEffect_$FangTianHuaJi_png,SkillEffect_$GuanShiFu_json,SkillEffect_$GuanShiFu_png,SkillEffect_$HanBingJian_json,SkillEffect_$HanBingJian_png,SkillEffect_$QiLinGong_json,SkillEffect_$QiLinGong_png,SkillEffect_$QingGangJian_json,SkillEffect_$QingGangJian_png,SkillEffect_$QingLongYanYueDao_json,SkillEffect_$QingLongYanYueDao_png,SkillEffect_$RenWangDun_json,SkillEffect_$RenWangDun_png,SkillEffect_$ZhangBaSheMao_json,SkillEffect_$ZhangBaSheMao_png,SkillEffect_$ZhuGeLianNu_json,HelpMe_png,FanZeiDead_png,NeiJianDead_png,ZhongChenDead_png,ZhuGongDead_png,BackSideState_png,GanNing_png,GuanYu_png,HuangGai_png,HuangYueYing_png,HuaTuo_png,LvMeng_png,MaChao_png,ShiBing_png,SunQuan_png,SunShangXiang_png,XiaHouDun_png,ZhangFei_png,ZhaoYun_png,ZhenJi_png,ZhouYu_png,CaoRen_png,CaoRen_Dead_mp3,ZhouYu_Dead_mp3,ZhenJi_Dead_mp3,ZhaoYun_Dead_mp3,ZhangFei_Dead_mp3,XiaHouDun_Dead_mp3,SunShangXiang_Dead_mp3,MaChao_Dead_mp3,LvMeng_Dead_mp3,HuaTuo_Dead_mp3,HuangYueYing_Dead_mp3,HuangGai_Dead_mp3,GuanYu_Dead_mp3,GanNing_Dead_mp3,Skill_$ZhuGeLianNu_mp3,Skill_$ZhangBaSheMao_mp3,Skill_$RenWangDun_mp3,Skill_$QingLongYanYueDao_mp3,Skill_$QingGangJian_mp3,Skill_$HanBingJian_mp3,Skill_$GuanShiFu_mp3,Skill_$FangTianHuaJi_mp3,Skill_$CiXiongShuangGuJian_mp3,Skill_$BaGuaZhen_mp3,Skill_ZhouYuYingZi_2_mp3,Skill_ZhouYuYingZi_1_mp3,Skill_ZhouYuFanJian_2_mp3,Skill_ZhouYuFanJian_1_mp3,Skill_ZhenJiQingGuo_2_mp3,Skill_ZhenJiQingGuo_1_mp3,Skill_ZhenJiLuoShen_2_mp3,Skill_ZhenJiLuoShen_1_mp3,Skill_ZhaoYunLongDan_2_mp3,Skill_ZhaoYunLongDan_1_mp3,Skill_ZhangFeiPaoXiao_2_mp3,Skill_ZhangFeiPaoXiao_1_mp3,Skill_XiaHouDunGangLie_2_mp3,Skill_XiaHouDunGangLie_1_mp3,Skill_SunShangXiangXiaoJi_2_mp3,Skill_SunShangXiangJieYin_2_mp3,Skill_SunShangXiangJieYin_1_mp3,Skill_SunShangXiang_XiaoJi_1_mp3,Skill_MaChaoTieQi_2_mp3,Skill_MaChaoTieQi_1_mp3,Skill_LvMengKeJi_2_mp3,Skill_LvMengKeJi_1_mp3,Skill_HuaTuoQingNang_2_mp3,Skill_HuaTuoQingNang_1_mp3,Skill_HuaTuoJiJiu_2_mp3,Skill_HuaTuoJiJiu_1_mp3,Skill_HuangYueYingJiZhi_2_mp3,Skill_HuangYueYingJiZhi_1_mp3,Skill_HuangGaiKuRou_2_mp3,Skill_HuangGaiKuRou_1_mp3,Skill_GuanYuWuSheng_2_mp3,Skill_GuanYuWuSheng_1_mp3,Skill_GanNingQiXi_2_mp3,Skill_GanNingQiXi_1_mp3,Skill_DaQiaoGuoSe_2_mp3,Skill_DaQiaoGuoSe_1_mp3,Skill_CaoRenJuShou_2_mp3,Skill_CaoRenJuShou_1_mp3,SuitButton_Diamond_png,SuitButton_Heart_png,SuitButton_Spade_png,SuitButton_Club_png,SunQuan_Dead_mp3,CaoCao_Dead_mp3,LiuBei_Dead_mp3,Skill_CaoCaoHuJia_1_mp3,Skill_CaoCaoHuJia_2_mp3,Skill_CaoCaoJianXiong_1_mp3,Skill_CaoCaoJianXiong_2_mp3,Skill_LiuBeiJiJiang_1_mp3,Skill_LiuBeiJiJiang_2_mp3,Skill_LiuBeiRenDe_1_mp3,Skill_LiuBeiRenDe_2_mp3,Skill_SunQuanJiuYuan_1_mp3,Skill_SunQuanJiuYuan_2_mp3,Skill_SunQuanZhiHeng_1_mp3,Skill_SunQuanZhiHeng_2_mp3,LiuBei_png,CaoCao_png,HuangZhong_png,WeiYan_png,XiaHouYuan_png,CaoCao_jpg,DaQiao_png,DiaoChan_png,LiuBei_jpg,XuChu_png,ZhangLiao_png,Skill_DaQiaoLiuLi_1_mp3,Skill_DaQiaoLiuLi_2_mp3,Skill_DiaoChanLiJian_1_mp3,Skill_DiaoChanLiJian_2_mp3,Skill_MaChaoTieJi_1_mp3,Skill_MaChaoTieJi_2_mp3,Skill_SunShangXiangXiaoJi_1_mp3,Skill_XuChuLuoYi_1_mp3,Skill_XuChuLuoYi_2_mp3,Skill_ZhangLiaoTuXi_1_mp3,Skill_ZhangLiaoTuXi_2_mp3,XuChu_Dead_mp3,ZhangLiao_Dead_mp3,Skill_XiaHouYuanShenSu_2_mp3,Skill_HuangZhongLieGong_1_mp3,Skill_HuangZhongLieGong_2_mp3,Skill_WeiYanKuangGu_1_mp3,Skill_WeiYanKuangGu_2_mp3,Skill_XiaHouYuanShenSu_1_mp3,HuangZhong_Dead_mp3,WeiYan_Dead_mp3,XiaHouYuan_Dead_mp3",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/Resource/Game/Country/QUN.png",
+			"type": "image",
+			"name": "QUN_png"
+		},
+		{
+			"url": "assets/Resource/Game/Country/SHU.png",
+			"type": "image",
+			"name": "SHU_png"
+		},
+		{
+			"url": "assets/Resource/Game/Country/WEI.png",
+			"type": "image",
+			"name": "WEI_png"
+		},
+		{
+			"url": "assets/Resource/Game/Country/WU.png",
+			"type": "image",
+			"name": "WU_png"
+		},
+		{
+			"url": "assets/Resource/Game/GameBG/Background1.png",
+			"type": "image",
+			"name": "Background1_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/Seat1.png",
+			"type": "image",
+			"name": "Seat1_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/Seat2.png",
+			"type": "image",
+			"name": "Seat2_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/Seat3.png",
+			"type": "image",
+			"name": "Seat3_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/Seat4.png",
+			"type": "image",
+			"name": "Seat4_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/Seat5.png",
+			"type": "image",
+			"name": "Seat5_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/Seat6.png",
+			"type": "image",
+			"name": "Seat6_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/Seat7.png",
+			"type": "image",
+			"name": "Seat7_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/Seat8.png",
+			"type": "image",
+			"name": "Seat8_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/SelfSeat1.png",
+			"type": "image",
+			"name": "SelfSeat1_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/SelfSeat2.png",
+			"type": "image",
+			"name": "SelfSeat2_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/SelfSeat3.png",
+			"type": "image",
+			"name": "SelfSeat3_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/SelfSeat4.png",
+			"type": "image",
+			"name": "SelfSeat4_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/SelfSeat5.png",
+			"type": "image",
+			"name": "SelfSeat5_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/SelfSeat6.png",
+			"type": "image",
+			"name": "SelfSeat6_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/SelfSeat7.png",
+			"type": "image",
+			"name": "SelfSeat7_png"
+		},
+		{
+			"url": "assets/Resource/Game/Seat/SelfSeat8.png",
+			"type": "image",
+			"name": "SelfSeat8_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/GeneralBG.png",
+			"type": "image",
+			"name": "GeneralBG_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/HPBG.png",
+			"type": "image",
+			"name": "HPBG_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/SelfGeneralBorder.png",
+			"type": "image",
+			"name": "SelfGeneralBorder_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/SelfHandBG.png",
+			"type": "image",
+			"name": "SelfHandBG_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/SelfHPBG.png",
+			"type": "image",
+			"name": "SelfHPBG_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/SelfSeatBG.png",
+			"type": "image",
+			"name": "SelfSeatBG_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/GeneralNameBG.json",
+			"type": "sheet",
+			"name": "GeneralNameBG",
+			"subkeys": "QunBG,ShuBG,WeiBG,WuBG"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/GeneralNameBG.png",
+			"type": "image",
+			"name": "GeneralNameBG_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/SelfGeneralNameBG.json",
+			"type": "sheet",
+			"name": "SelfGeneralNameBG",
+			"subkeys": "SelfQunBG,SelfShuBG,SelfWeiBG,SelfWuBG"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/SelfGeneralNameBG.png",
+			"type": "image",
+			"name": "SelfGeneralNameBG_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/HPBig.json",
+			"type": "sheet",
+			"name": "HPBig",
+			"subkeys": "BlackHPBig,GreenHPBig,OrangeHPBig,RedHPBig"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/HPBig.png",
+			"type": "image",
+			"name": "HPBig_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/HPSmall.json",
+			"type": "sheet",
+			"name": "HPSmall",
+			"subkeys": "BlackHPSmall,GreenHPSmall,OrangeHPSmall,RedHPSmall"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/HPSmall.png",
+			"type": "image",
+			"name": "HPSmall_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_Sha.png",
+			"type": "image",
+			"name": "Card_Sha_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_Shan.png",
+			"type": "image",
+			"name": "Card_Shan_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/SuitNumber.json",
+			"type": "sheet",
+			"name": "SuitNumber",
+			"subkeys": "BlackCardNumber_1,BlackCardNumber_10,BlackCardNumber_11,BlackCardNumber_12,BlackCardNumber_13,BlackCardNumber_2,BlackCardNumber_3,BlackCardNumber_4,BlackCardNumber_5,BlackCardNumber_6,BlackCardNumber_7,BlackCardNumber_8,BlackCardNumber_9,RedCardNumber_1,RedCardNumber_10,RedCardNumber_11,RedCardNumber_12,RedCardNumber_13,RedCardNumber_2,RedCardNumber_3,RedCardNumber_4,RedCardNumber_5,RedCardNumber_6,RedCardNumber_7,RedCardNumber_8,RedCardNumber_9,club,diamond,heart,spade"
+		},
+		{
+			"url": "assets/Resource/Game/Card/SuitNumber.png",
+			"type": "image",
+			"name": "SuitNumber_png"
+		},
+		{
+			"url": "assets/Resource/Game/JSON/Cards.json",
+			"type": "json",
+			"name": "Cards_json"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_ZiXing.png",
+			"type": "image",
+			"name": "Card_ZiXing_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_Back.png",
+			"type": "image",
+			"name": "Card_Back_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_BaGuaZhen.png",
+			"type": "image",
+			"name": "Card_BaGuaZhen_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_ChiTu.png",
+			"type": "image",
+			"name": "Card_ChiTu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_CiXiongShuangGuJian.png",
+			"type": "image",
+			"name": "Card_CiXiongShuangGuJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_DaYuan.png",
+			"type": "image",
+			"name": "Card_DaYuan_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_DiLu.png",
+			"type": "image",
+			"name": "Card_DiLu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_FangTianHuaJi.png",
+			"type": "image",
+			"name": "Card_FangTianHuaJi_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_GuanShiFu.png",
+			"type": "image",
+			"name": "Card_GuanShiFu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_GuoHeChaiQiao.png",
+			"type": "image",
+			"name": "Card_GuoHeChaiQiao_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_HanBingJian.png",
+			"type": "image",
+			"name": "Card_HanBingJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_HuaLiu.png",
+			"type": "image",
+			"name": "Card_HuaLiu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_JieDaoShaRen.png",
+			"type": "image",
+			"name": "Card_JieDaoShaRen_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_JueDou.png",
+			"type": "image",
+			"name": "Card_JueDou_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_JueYing.png",
+			"type": "image",
+			"name": "Card_JueYing_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_LeBuSiShu.png",
+			"type": "image",
+			"name": "Card_LeBuSiShu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_NanManRuQin.png",
+			"type": "image",
+			"name": "Card_NanManRuQin_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_QiLinGong.png",
+			"type": "image",
+			"name": "Card_QiLinGong_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_QingGangJian.png",
+			"type": "image",
+			"name": "Card_QingGangJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_QingLongYanYueDao.png",
+			"type": "image",
+			"name": "Card_QingLongYanYueDao_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_RenWangDun.png",
+			"type": "image",
+			"name": "Card_RenWangDun_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_ShanDian.png",
+			"type": "image",
+			"name": "Card_ShanDian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_ShunShouQianYang.png",
+			"type": "image",
+			"name": "Card_ShunShouQianYang_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_Tao.png",
+			"type": "image",
+			"name": "Card_Tao_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_TaoYuanJieYi.png",
+			"type": "image",
+			"name": "Card_TaoYuanJieYi_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_WanJianQiFa.png",
+			"type": "image",
+			"name": "Card_WanJianQiFa_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_WuGuFengDeng.png",
+			"type": "image",
+			"name": "Card_WuGuFengDeng_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_WuXieKeJi.png",
+			"type": "image",
+			"name": "Card_WuXieKeJi_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_WuZhongShengYou.png",
+			"type": "image",
+			"name": "Card_WuZhongShengYou_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_ZhangBaSheMao.png",
+			"type": "image",
+			"name": "Card_ZhangBaSheMao_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_ZhuaHuangFeiDian.png",
+			"type": "image",
+			"name": "Card_ZhuaHuangFeiDian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_ZhuGeLianNu.png",
+			"type": "image",
+			"name": "Card_ZhuGeLianNu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_CannotUse.png",
+			"type": "image",
+			"name": "Card_CannotUse_png"
+		},
+		{
+			"url": "assets/Resource/Game/Phase/DiscardPhase.png",
+			"type": "image",
+			"name": "DiscardPhase_png"
+		},
+		{
+			"url": "assets/Resource/Game/Phase/DrawPhase.png",
+			"type": "image",
+			"name": "DrawPhase_png"
+		},
+		{
+			"url": "assets/Resource/Game/Phase/JudgePhase.png",
+			"type": "image",
+			"name": "JudgePhase_png"
+		},
+		{
+			"url": "assets/Resource/Game/Phase/OverPhase.png",
+			"type": "image",
+			"name": "OverPhase_png"
+		},
+		{
+			"url": "assets/Resource/Game/Phase/PlayPhase.png",
+			"type": "image",
+			"name": "PlayPhase_png"
+		},
+		{
+			"url": "assets/Resource/Game/Phase/RoundBegin.png",
+			"type": "image",
+			"name": "RoundBegin_png"
+		},
+		{
+			"url": "assets/Resource/Game/Phase/SelfDiscardPhase.png",
+			"type": "image",
+			"name": "SelfDiscardPhase_png"
+		},
+		{
+			"url": "assets/Resource/Game/Phase/SelfDrawPhase.png",
+			"type": "image",
+			"name": "SelfDrawPhase_png"
+		},
+		{
+			"url": "assets/Resource/Game/Phase/SelfJudgePhase.png",
+			"type": "image",
+			"name": "SelfJudgePhase_png"
+		},
+		{
+			"url": "assets/Resource/Game/Phase/SelfOverPhase.png",
+			"type": "image",
+			"name": "SelfOverPhase_png"
+		},
+		{
+			"url": "assets/Resource/Game/Phase/SelfPlayPhase.png",
+			"type": "image",
+			"name": "SelfPlayPhase_png"
+		},
+		{
+			"url": "assets/Resource/Game/Phase/SelfRoundBegin.png",
+			"type": "image",
+			"name": "SelfRoundBegin_png"
+		},
+		{
+			"url": "assets/Resource/Game/Button/OperationButton.png",
+			"type": "image",
+			"name": "OperationButton_png"
+		},
+		{
+			"url": "assets/Resource/Game/Button/OperationButtonDown.png",
+			"type": "image",
+			"name": "OperationButtonDown_png"
+		},
+		{
+			"url": "assets/Resource/Game/Button/OperationButtonDisable.png",
+			"type": "image",
+			"name": "OperationButtonDisable_png"
+		},
+		{
+			"url": "assets/Resource/Game/Button/OverOperationButton.png",
+			"type": "image",
+			"name": "OverOperationButton_png"
+		},
+		{
+			"url": "assets/Resource/Game/Button/OverOperationButtonDown.png",
+			"type": "image",
+			"name": "OverOperationButtonDown_png"
+		},
+		{
+			"url": "assets/Resource/Game/Button/OverOperationButtonDisable.png",
+			"type": "image",
+			"name": "OverOperationButtonDisable_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/CardCountBG.json",
+			"type": "sheet",
+			"name": "CardCountBG",
+			"subkeys": "NoneCardCountBG,QunCardCountBG,ShuCardCountBG,WeiCardCountBG,WuCardCountBG"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/CardCountBG.png",
+			"type": "image",
+			"name": "CardCountBG_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/GeneralDark.png",
+			"type": "image",
+			"name": "GeneralDark_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/GeneralSelected.png",
+			"type": "image",
+			"name": "GeneralSelected_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/SmallLeBuSiShu.png",
+			"type": "image",
+			"name": "SmallLeBuSiShu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/BigLeBuSiShu.png",
+			"type": "image",
+			"name": "BigLeBuSiShu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Card/Card_Unknown.png",
+			"type": "image",
+			"name": "Card_Unknown_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/SmallShanDian.png",
+			"type": "image",
+			"name": "SmallShanDian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/BigShanDian.png",
+			"type": "image",
+			"name": "BigShanDian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfRenWangDun.png",
+			"type": "image",
+			"name": "SelfRenWangDun_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersRenWangDun.png",
+			"type": "image",
+			"name": "OthersRenWangDun_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfBaGuaZhen.png",
+			"type": "image",
+			"name": "SelfBaGuaZhen_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersBaGuaZhen.png",
+			"type": "image",
+			"name": "OthersBaGuaZhen_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/WindowBG.png",
+			"type": "image",
+			"name": "WindowBG_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/WindowTitleBG.png",
+			"type": "image",
+			"name": "WindowTitleBG_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/WindowCardLabelBG.png",
+			"type": "image",
+			"name": "WindowCardLabelBG_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfZiXing.png",
+			"type": "image",
+			"name": "SelfZiXing_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersChiTu.png",
+			"type": "image",
+			"name": "OthersChiTu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersDaYuan.png",
+			"type": "image",
+			"name": "OthersDaYuan_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersDiLu.png",
+			"type": "image",
+			"name": "OthersDiLu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersHuaLiu.png",
+			"type": "image",
+			"name": "OthersHuaLiu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersJueYing.png",
+			"type": "image",
+			"name": "OthersJueYing_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersZhuaHuangFeiDian.png",
+			"type": "image",
+			"name": "OthersZhuaHuangFeiDian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersZiXing.png",
+			"type": "image",
+			"name": "OthersZiXing_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfChiTu.png",
+			"type": "image",
+			"name": "SelfChiTu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfDaYuan.png",
+			"type": "image",
+			"name": "SelfDaYuan_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfDiLu.png",
+			"type": "image",
+			"name": "SelfDiLu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfHuaLiu.png",
+			"type": "image",
+			"name": "SelfHuaLiu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfJueYing.png",
+			"type": "image",
+			"name": "SelfJueYing_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfZhuaHuangFeiDian.png",
+			"type": "image",
+			"name": "SelfZhuaHuangFeiDian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersCiXiongShuangGuJian.png",
+			"type": "image",
+			"name": "OthersCiXiongShuangGuJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersFangTianHuaJi.png",
+			"type": "image",
+			"name": "OthersFangTianHuaJi_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersGuanShiFu.png",
+			"type": "image",
+			"name": "OthersGuanShiFu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersHanBingJian.png",
+			"type": "image",
+			"name": "OthersHanBingJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersQiLinGong.png",
+			"type": "image",
+			"name": "OthersQiLinGong_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersQingGangJian.png",
+			"type": "image",
+			"name": "OthersQingGangJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersQingLongYanYueDao.png",
+			"type": "image",
+			"name": "OthersQingLongYanYueDao_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersZhangBaSheMao.png",
+			"type": "image",
+			"name": "OthersZhangBaSheMao_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/OthersZhuGeLianNu.png",
+			"type": "image",
+			"name": "OthersZhuGeLianNu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfCiXiongShuangGuJian.png",
+			"type": "image",
+			"name": "SelfCiXiongShuangGuJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfFangTianHuaJi.png",
+			"type": "image",
+			"name": "SelfFangTianHuaJi_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfGuanShiFu.png",
+			"type": "image",
+			"name": "SelfGuanShiFu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfHanBingJian.png",
+			"type": "image",
+			"name": "SelfHanBingJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfQiLinGong.png",
+			"type": "image",
+			"name": "SelfQiLinGong_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfQingGangJian.png",
+			"type": "image",
+			"name": "SelfQingGangJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfQingLongYanYueDao.png",
+			"type": "image",
+			"name": "SelfQingLongYanYueDao_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfZhangBaSheMao.png",
+			"type": "image",
+			"name": "SelfZhangBaSheMao_png"
+		},
+		{
+			"url": "assets/Resource/Game/Equip/SelfZhuGeLianNu.png",
+			"type": "image",
+			"name": "SelfZhuGeLianNu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/bgm.mp3",
+			"type": "sound",
+			"name": "bgm_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/EquipSelectedBorder.json",
+			"type": "json",
+			"name": "EquipSelectedBorder_json"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/EquipSelectedBorder.png",
+			"type": "image",
+			"name": "EquipSelectedBorder_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillButton/SkillButton_Normal_Down.png",
+			"type": "image",
+			"name": "SkillButton_Normal_Down_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillButton/SkillButton_Normal_Up.png",
+			"type": "image",
+			"name": "SkillButton_Normal_Up_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillButton/SkillButton_Normal_Disabled.png",
+			"type": "image",
+			"name": "SkillButton_Normal_Disabled_png"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_GuoHeChaiQiao.mp3",
+			"type": "sound",
+			"name": "Female_GuoHeChaiQiao_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_JieDaoShaRen.mp3",
+			"type": "sound",
+			"name": "Female_JieDaoShaRen_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_JueDou.mp3",
+			"type": "sound",
+			"name": "Female_JueDou_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_LeBuSiShu.mp3",
+			"type": "sound",
+			"name": "Female_LeBuSiShu_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_NanManRuQin.mp3",
+			"type": "sound",
+			"name": "Female_NanManRuQin_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_Sha.mp3",
+			"type": "sound",
+			"name": "Female_Sha_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_Shan.mp3",
+			"type": "sound",
+			"name": "Female_Shan_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_ShanDian.mp3",
+			"type": "sound",
+			"name": "Female_ShanDian_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_ShunShouQianYang.mp3",
+			"type": "sound",
+			"name": "Female_ShunShouQianYang_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_Tao.mp3",
+			"type": "sound",
+			"name": "Female_Tao_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_TaoYuanJieYi.mp3",
+			"type": "sound",
+			"name": "Female_TaoYuanJieYi_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_WanJianQiFa.mp3",
+			"type": "sound",
+			"name": "Female_WanJianQiFa_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_WuGuFengDeng.mp3",
+			"type": "sound",
+			"name": "Female_WuGuFengDeng_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_WuXieKeJi.mp3",
+			"type": "sound",
+			"name": "Female_WuXieKeJi_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Female_WuZhongShengYou.mp3",
+			"type": "sound",
+			"name": "Female_WuZhongShengYou_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_GuoHeChaiQiao.mp3",
+			"type": "sound",
+			"name": "Male_GuoHeChaiQiao_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_JieDaoShaRen.mp3",
+			"type": "sound",
+			"name": "Male_JieDaoShaRen_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_JueDou.mp3",
+			"type": "sound",
+			"name": "Male_JueDou_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_LeBuSiShu.mp3",
+			"type": "sound",
+			"name": "Male_LeBuSiShu_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_NanManRuQin.mp3",
+			"type": "sound",
+			"name": "Male_NanManRuQin_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_Sha.mp3",
+			"type": "sound",
+			"name": "Male_Sha_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_Shan.mp3",
+			"type": "sound",
+			"name": "Male_Shan_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_ShanDian.mp3",
+			"type": "sound",
+			"name": "Male_ShanDian_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_ShunShouQianYang.mp3",
+			"type": "sound",
+			"name": "Male_ShunShouQianYang_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_TaoYuanJieYi.mp3",
+			"type": "sound",
+			"name": "Male_TaoYuanJieYi_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_WanJianQiFa.mp3",
+			"type": "sound",
+			"name": "Male_WanJianQiFa_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_WuGuFengDeng.mp3",
+			"type": "sound",
+			"name": "Male_WuGuFengDeng_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_WuXieKeJi.mp3",
+			"type": "sound",
+			"name": "Male_WuXieKeJi_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Card/Male_WuZhongShengYou.mp3",
+			"type": "sound",
+			"name": "Male_WuZhongShengYou_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Effect/EquipArm.mp3",
+			"type": "sound",
+			"name": "EquipArm_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Effect/EquipArmor.mp3",
+			"type": "sound",
+			"name": "EquipArmor_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Effect/EquipHorse.mp3",
+			"type": "sound",
+			"name": "EquipHorse_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Effect/Hurt.mp3",
+			"type": "sound",
+			"name": "Hurt_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Effect/ShanDian.mp3",
+			"type": "sound",
+			"name": "ShanDian_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/SkillButton/SkillButton_Awake_Disabled.png",
+			"type": "image",
+			"name": "SkillButton_Awake_Disabled_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillButton/SkillButton_Awake_Down.png",
+			"type": "image",
+			"name": "SkillButton_Awake_Down_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillButton/SkillButton_Awake_Up.png",
+			"type": "image",
+			"name": "SkillButton_Awake_Up_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillButton/SkillButton_Limit_Disabled.png",
+			"type": "image",
+			"name": "SkillButton_Limit_Disabled_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillButton/SkillButton_Limit_Down.png",
+			"type": "image",
+			"name": "SkillButton_Limit_Down_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillButton/SkillButton_Limit_Up.png",
+			"type": "image",
+			"name": "SkillButton_Limit_Up_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillButton/SkillButton_Lock_Disabled.png",
+			"type": "image",
+			"name": "SkillButton_Lock_Disabled_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillButton/SkillButton_Lock_Down.png",
+			"type": "image",
+			"name": "SkillButton_Lock_Down_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillButton/SkillButton_Lock_Up.png",
+			"type": "image",
+			"name": "SkillButton_Lock_Up_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/SkillSelectedBorder.png",
+			"type": "image",
+			"name": "SkillSelectedBorder_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/SkillSelectedBorder.json",
+			"type": "json",
+			"name": "SkillSelectedBorder_json"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/SoundLink.json",
+			"type": "json",
+			"name": "SoundLink_json"
+		},
+		{
+			"url": "assets/Resource/Game/Identity/Identity_FanZei.png",
+			"type": "image",
+			"name": "Identity_FanZei_png"
+		},
+		{
+			"url": "assets/Resource/Game/Identity/Identity_NeiJian.png",
+			"type": "image",
+			"name": "Identity_NeiJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/Identity/Identity_Unknown.png",
+			"type": "image",
+			"name": "Identity_Unknown_png"
+		},
+		{
+			"url": "assets/Resource/Game/Identity/Identity_ZhongChen.png",
+			"type": "image",
+			"name": "Identity_ZhongChen_png"
+		},
+		{
+			"url": "assets/Resource/Game/Identity/Identity_ZhuGong.png",
+			"type": "image",
+			"name": "Identity_ZhuGong_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/TargetLine.png",
+			"type": "image",
+			"name": "TargetLine_png"
+		},
+		{
+			"url": "assets/Resource/Game/CardEffect/CardEffect_Tao.png",
+			"type": "image",
+			"name": "CardEffect_Tao_png"
+		},
+		{
+			"url": "assets/Resource/Game/CardEffect/CardEffect_Tao.json",
+			"type": "json",
+			"name": "CardEffect_Tao_json"
+		},
+		{
+			"url": "assets/Resource/Game/CardEffect/CardEffect_Sha_Black.png",
+			"type": "image",
+			"name": "CardEffect_Sha_Black_png"
+		},
+		{
+			"url": "assets/Resource/Game/CardEffect/CardEffect_Sha_Red.png",
+			"type": "image",
+			"name": "CardEffect_Sha_Red_png"
+		},
+		{
+			"url": "assets/Resource/Game/CardEffect/CardEffect_Shan.png",
+			"type": "image",
+			"name": "CardEffect_Shan_png"
+		},
+		{
+			"url": "assets/Resource/Game/CardEffect/CardEffect_Shan.json",
+			"type": "json",
+			"name": "CardEffect_Shan_json"
+		},
+		{
+			"url": "assets/Resource/Game/CardEffect/CardEffect_Sha_Black.json",
+			"type": "json",
+			"name": "CardEffect_Sha_Black_json"
+		},
+		{
+			"url": "assets/Resource/Game/CardEffect/CardEffect_Sha_Red.json",
+			"type": "json",
+			"name": "CardEffect_Sha_Red_json"
+		},
+		{
+			"url": "assets/Resource/Game/Effect/Effect_LoseHP.png",
+			"type": "image",
+			"name": "Effect_LoseHP_png"
+		},
+		{
+			"url": "assets/Resource/Game/Effect/Effect_Hurt.json",
+			"type": "json",
+			"name": "Effect_Hurt_json"
+		},
+		{
+			"url": "assets/Resource/Game/Effect/Effect_Hurt.png",
+			"type": "image",
+			"name": "Effect_Hurt_png"
+		},
+		{
+			"url": "assets/Resource/Game/Effect/Effect_LoseHP.json",
+			"type": "json",
+			"name": "Effect_LoseHP_json"
+		},
+		{
+			"url": "assets/Resource/Game/Effect/Effect_BingLiangCunDuan.json",
+			"type": "json",
+			"name": "Effect_BingLiangCunDuan_json"
+		},
+		{
+			"url": "assets/Resource/Game/Effect/Effect_BingLiangCunDuan.png",
+			"type": "image",
+			"name": "Effect_BingLiangCunDuan_png"
+		},
+		{
+			"url": "assets/Resource/Game/Effect/Effect_LeBuSiShu.json",
+			"type": "json",
+			"name": "Effect_LeBuSiShu_json"
+		},
+		{
+			"url": "assets/Resource/Game/Effect/Effect_LeBuSiShu.png",
+			"type": "image",
+			"name": "Effect_LeBuSiShu_png"
+		},
+		{
+			"url": "assets/Resource/Game/Effect/Effect_ShanDian.json",
+			"type": "json",
+			"name": "Effect_ShanDian_json"
+		},
+		{
+			"url": "assets/Resource/Game/Effect/Effect_ShanDian.png",
+			"type": "image",
+			"name": "Effect_ShanDian_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$ZhuGeLianNu.png",
+			"type": "image",
+			"name": "SkillEffect_$ZhuGeLianNu_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$BaGuaZhen.json",
+			"type": "json",
+			"name": "SkillEffect_$BaGuaZhen_json"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$BaGuaZhen.png",
+			"type": "image",
+			"name": "SkillEffect_$BaGuaZhen_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$CiXiongShuangGuJian.json",
+			"type": "json",
+			"name": "SkillEffect_$CiXiongShuangGuJian_json"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$CiXiongShuangGuJian.png",
+			"type": "image",
+			"name": "SkillEffect_$CiXiongShuangGuJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$FangTianHuaJi.json",
+			"type": "json",
+			"name": "SkillEffect_$FangTianHuaJi_json"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$FangTianHuaJi.png",
+			"type": "image",
+			"name": "SkillEffect_$FangTianHuaJi_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$GuanShiFu.json",
+			"type": "json",
+			"name": "SkillEffect_$GuanShiFu_json"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$GuanShiFu.png",
+			"type": "image",
+			"name": "SkillEffect_$GuanShiFu_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$HanBingJian.json",
+			"type": "json",
+			"name": "SkillEffect_$HanBingJian_json"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$HanBingJian.png",
+			"type": "image",
+			"name": "SkillEffect_$HanBingJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$QiLinGong.json",
+			"type": "json",
+			"name": "SkillEffect_$QiLinGong_json"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$QiLinGong.png",
+			"type": "image",
+			"name": "SkillEffect_$QiLinGong_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$QingGangJian.json",
+			"type": "json",
+			"name": "SkillEffect_$QingGangJian_json"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$QingGangJian.png",
+			"type": "image",
+			"name": "SkillEffect_$QingGangJian_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$QingLongYanYueDao.json",
+			"type": "json",
+			"name": "SkillEffect_$QingLongYanYueDao_json"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$QingLongYanYueDao.png",
+			"type": "image",
+			"name": "SkillEffect_$QingLongYanYueDao_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$RenWangDun.json",
+			"type": "json",
+			"name": "SkillEffect_$RenWangDun_json"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$RenWangDun.png",
+			"type": "image",
+			"name": "SkillEffect_$RenWangDun_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$ZhangBaSheMao.json",
+			"type": "json",
+			"name": "SkillEffect_$ZhangBaSheMao_json"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$ZhangBaSheMao.png",
+			"type": "image",
+			"name": "SkillEffect_$ZhangBaSheMao_png"
+		},
+		{
+			"url": "assets/Resource/Game/SkillEffect/SkillEffect_$ZhuGeLianNu.json",
+			"type": "json",
+			"name": "SkillEffect_$ZhuGeLianNu_json"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/HelpMe.png",
+			"type": "image",
+			"name": "HelpMe_png"
+		},
+		{
+			"url": "assets/Resource/Game/DeadFlag/FanZeiDead.png",
+			"type": "image",
+			"name": "FanZeiDead_png"
+		},
+		{
+			"url": "assets/Resource/Game/DeadFlag/NeiJianDead.png",
+			"type": "image",
+			"name": "NeiJianDead_png"
+		},
+		{
+			"url": "assets/Resource/Game/DeadFlag/ZhongChenDead.png",
+			"type": "image",
+			"name": "ZhongChenDead_png"
+		},
+		{
+			"url": "assets/Resource/Game/DeadFlag/ZhuGongDead.png",
+			"type": "image",
+			"name": "ZhuGongDead_png"
+		},
+		{
+			"url": "assets/Resource/Game/Widget/BackSideState.png",
+			"type": "image",
+			"name": "BackSideState_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/GanNing.png",
+			"type": "image",
+			"name": "GanNing_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/GuanYu.png",
+			"type": "image",
+			"name": "GuanYu_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/HuangGai.png",
+			"type": "image",
+			"name": "HuangGai_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/HuangYueYing.png",
+			"type": "image",
+			"name": "HuangYueYing_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/HuaTuo.png",
+			"type": "image",
+			"name": "HuaTuo_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/LvMeng.png",
+			"type": "image",
+			"name": "LvMeng_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/MaChao.png",
+			"type": "image",
+			"name": "MaChao_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/ShiBing.png",
+			"type": "image",
+			"name": "ShiBing_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/SunQuan.png",
+			"type": "image",
+			"name": "SunQuan_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/SunShangXiang.png",
+			"type": "image",
+			"name": "SunShangXiang_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/XiaHouDun.png",
+			"type": "image",
+			"name": "XiaHouDun_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/ZhangFei.png",
+			"type": "image",
+			"name": "ZhangFei_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/ZhaoYun.png",
+			"type": "image",
+			"name": "ZhaoYun_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/ZhenJi.png",
+			"type": "image",
+			"name": "ZhenJi_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/std/ZhouYu.png",
+			"type": "image",
+			"name": "ZhouYu_png"
+		},
+		{
+			"url": "assets/Resource/Game/General/wind/CaoRen.png",
+			"type": "image",
+			"name": "CaoRen_png"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/GanNing_Dead.mp3",
+			"type": "sound",
+			"name": "GanNing_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/GuanYu_Dead.mp3",
+			"type": "sound",
+			"name": "GuanYu_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/HuaTuo_Dead.mp3",
+			"type": "sound",
+			"name": "HuaTuo_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/HuangGai_Dead.mp3",
+			"type": "sound",
+			"name": "HuangGai_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/HuangYueYing_Dead.mp3",
+			"type": "sound",
+			"name": "HuangYueYing_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/LvMeng_Dead.mp3",
+			"type": "sound",
+			"name": "LvMeng_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/MaChao_Dead.mp3",
+			"type": "sound",
+			"name": "MaChao_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/SunShangXiang_Dead.mp3",
+			"type": "sound",
+			"name": "SunShangXiang_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/XiaHouDun_Dead.mp3",
+			"type": "sound",
+			"name": "XiaHouDun_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/ZhangFei_Dead.mp3",
+			"type": "sound",
+			"name": "ZhangFei_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/ZhaoYun_Dead.mp3",
+			"type": "sound",
+			"name": "ZhaoYun_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/ZhenJi_Dead.mp3",
+			"type": "sound",
+			"name": "ZhenJi_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/std/ZhouYu_Dead.mp3",
+			"type": "sound",
+			"name": "ZhouYu_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/General/wind/CaoRen_Dead.mp3",
+			"type": "sound",
+			"name": "CaoRen_Dead_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdCard/Skill_$BaGuaZhen.mp3",
+			"type": "sound",
+			"name": "Skill_$BaGuaZhen_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdCard/Skill_$CiXiongShuangGuJian.mp3",
+			"type": "sound",
+			"name": "Skill_$CiXiongShuangGuJian_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdCard/Skill_$FangTianHuaJi.mp3",
+			"type": "sound",
+			"name": "Skill_$FangTianHuaJi_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdCard/Skill_$GuanShiFu.mp3",
+			"type": "sound",
+			"name": "Skill_$GuanShiFu_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdCard/Skill_$HanBingJian.mp3",
+			"type": "sound",
+			"name": "Skill_$HanBingJian_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdCard/Skill_$QingGangJian.mp3",
+			"type": "sound",
+			"name": "Skill_$QingGangJian_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdCard/Skill_$QingLongYanYueDao.mp3",
+			"type": "sound",
+			"name": "Skill_$QingLongYanYueDao_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdCard/Skill_$RenWangDun.mp3",
+			"type": "sound",
+			"name": "Skill_$RenWangDun_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdCard/Skill_$ZhangBaSheMao.mp3",
+			"type": "sound",
+			"name": "Skill_$ZhangBaSheMao_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdCard/Skill_$ZhuGeLianNu.mp3",
+			"type": "sound",
+			"name": "Skill_$ZhuGeLianNu_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_DaQiaoGuoSe_1.mp3",
+			"type": "sound",
+			"name": "Skill_DaQiaoGuoSe_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_DaQiaoGuoSe_2.mp3",
+			"type": "sound",
+			"name": "Skill_DaQiaoGuoSe_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_GanNingQiXi_1.mp3",
+			"type": "sound",
+			"name": "Skill_GanNingQiXi_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_GanNingQiXi_2.mp3",
+			"type": "sound",
+			"name": "Skill_GanNingQiXi_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_GuanYuWuSheng_1.mp3",
+			"type": "sound",
+			"name": "Skill_GuanYuWuSheng_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_GuanYuWuSheng_2.mp3",
+			"type": "sound",
+			"name": "Skill_GuanYuWuSheng_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_HuaTuoJiJiu_1.mp3",
+			"type": "sound",
+			"name": "Skill_HuaTuoJiJiu_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_HuaTuoJiJiu_2.mp3",
+			"type": "sound",
+			"name": "Skill_HuaTuoJiJiu_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_HuaTuoQingNang_1.mp3",
+			"type": "sound",
+			"name": "Skill_HuaTuoQingNang_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_HuaTuoQingNang_2.mp3",
+			"type": "sound",
+			"name": "Skill_HuaTuoQingNang_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_HuangGaiKuRou_1.mp3",
+			"type": "sound",
+			"name": "Skill_HuangGaiKuRou_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_HuangGaiKuRou_2.mp3",
+			"type": "sound",
+			"name": "Skill_HuangGaiKuRou_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_HuangYueYingJiZhi_1.mp3",
+			"type": "sound",
+			"name": "Skill_HuangYueYingJiZhi_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_HuangYueYingJiZhi_2.mp3",
+			"type": "sound",
+			"name": "Skill_HuangYueYingJiZhi_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_LvMengKeJi_1.mp3",
+			"type": "sound",
+			"name": "Skill_LvMengKeJi_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_LvMengKeJi_2.mp3",
+			"type": "sound",
+			"name": "Skill_LvMengKeJi_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_MaChaoTieQi_1.mp3",
+			"type": "sound",
+			"name": "Skill_MaChaoTieQi_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_MaChaoTieQi_2.mp3",
+			"type": "sound",
+			"name": "Skill_MaChaoTieQi_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_SunShangXiangJieYin_1.mp3",
+			"type": "sound",
+			"name": "Skill_SunShangXiangJieYin_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_SunShangXiangJieYin_2.mp3",
+			"type": "sound",
+			"name": "Skill_SunShangXiangJieYin_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_SunShangXiangXiaoJi_2.mp3",
+			"type": "sound",
+			"name": "Skill_SunShangXiangXiaoJi_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_SunShangXiang_XiaoJi_1.mp3",
+			"type": "sound",
+			"name": "Skill_SunShangXiang_XiaoJi_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_XiaHouDunGangLie_1.mp3",
+			"type": "sound",
+			"name": "Skill_XiaHouDunGangLie_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_XiaHouDunGangLie_2.mp3",
+			"type": "sound",
+			"name": "Skill_XiaHouDunGangLie_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhangFeiPaoXiao_1.mp3",
+			"type": "sound",
+			"name": "Skill_ZhangFeiPaoXiao_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhangFeiPaoXiao_2.mp3",
+			"type": "sound",
+			"name": "Skill_ZhangFeiPaoXiao_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhaoYunLongDan_1.mp3",
+			"type": "sound",
+			"name": "Skill_ZhaoYunLongDan_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhaoYunLongDan_2.mp3",
+			"type": "sound",
+			"name": "Skill_ZhaoYunLongDan_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhenJiLuoShen_1.mp3",
+			"type": "sound",
+			"name": "Skill_ZhenJiLuoShen_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhenJiLuoShen_2.mp3",
+			"type": "sound",
+			"name": "Skill_ZhenJiLuoShen_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhenJiQingGuo_1.mp3",
+			"type": "sound",
+			"name": "Skill_ZhenJiQingGuo_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhenJiQingGuo_2.mp3",
+			"type": "sound",
+			"name": "Skill_ZhenJiQingGuo_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhouYuFanJian_1.mp3",
+			"type": "sound",
+			"name": "Skill_ZhouYuFanJian_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhouYuFanJian_2.mp3",
+			"type": "sound",
+			"name": "Skill_ZhouYuFanJian_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhouYuYingZi_1.mp3",
+			"type": "sound",
+			"name": "Skill_ZhouYuYingZi_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhouYuYingZi_2.mp3",
+			"type": "sound",
+			"name": "Skill_ZhouYuYingZi_2_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/wind/Skill_CaoRenJuShou_1.mp3",
+			"type": "sound",
+			"name": "Skill_CaoRenJuShou_1_mp3"
+		},
+		{
+			"url": "assets/Resource/Game/Sound/Skill/wind/Skill_CaoRenJuShou_2.mp3",
+			"type": "sound",
+			"name": "Skill_CaoRenJuShou_2_mp3"
+		},
+		{
+			"name": "SuitButton_Diamond_png",
+			"type": "image",
+			"url": "assets/Resource/Game/Button/SuitButton_Diamond.png"
+		},
+		{
+			"name": "SuitButton_Heart_png",
+			"type": "image",
+			"url": "assets/Resource/Game/Button/SuitButton_Heart.png"
+		},
+		{
+			"name": "SuitButton_Spade_png",
+			"type": "image",
+			"url": "assets/Resource/Game/Button/SuitButton_Spade.png"
+		},
+		{
+			"name": "SuitButton_Club_png",
+			"type": "image",
+			"url": "assets/Resource/Game/Button/SuitButton_Club.png"
+		},
+		{
+			"name": "SunQuan_Dead_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/General/std/SunQuan_Dead.mp3"
+		},
+		{
+			"name": "CaoCao_Dead_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/General/std/CaoCao_Dead.mp3"
+		},
+		{
+			"name": "LiuBei_Dead_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/General/std/LiuBei_Dead.mp3"
+		},
+		{
+			"name": "Skill_CaoCaoHuJia_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_CaoCaoHuJia_1.mp3"
+		},
+		{
+			"name": "Skill_CaoCaoHuJia_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_CaoCaoHuJia_2.mp3"
+		},
+		{
+			"name": "Skill_CaoCaoJianXiong_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_CaoCaoJianXiong_1.mp3"
+		},
+		{
+			"name": "Skill_CaoCaoJianXiong_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_CaoCaoJianXiong_2.mp3"
+		},
+		{
+			"name": "Skill_LiuBeiJiJiang_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_LiuBeiJiJiang_1.mp3"
+		},
+		{
+			"name": "Skill_LiuBeiJiJiang_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_LiuBeiJiJiang_2.mp3"
+		},
+		{
+			"name": "Skill_LiuBeiRenDe_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_LiuBeiRenDe_1.mp3"
+		},
+		{
+			"name": "Skill_LiuBeiRenDe_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_LiuBeiRenDe_2.mp3"
+		},
+		{
+			"name": "Skill_SunQuanJiuYuan_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_SunQuanJiuYuan_1.mp3"
+		},
+		{
+			"name": "Skill_SunQuanJiuYuan_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_SunQuanJiuYuan_2.mp3"
+		},
+		{
+			"name": "Skill_SunQuanZhiHeng_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_SunQuanZhiHeng_1.mp3"
+		},
+		{
+			"name": "Skill_SunQuanZhiHeng_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_SunQuanZhiHeng_2.mp3"
+		},
+		{
+			"name": "LiuBei_png",
+			"type": "image",
+			"url": "assets/Resource/Game/General/std/LiuBei.png"
+		},
+		{
+			"name": "CaoCao_png",
+			"type": "image",
+			"url": "assets/Resource/Game/General/std/CaoCao.png"
+		},
+		{
+			"name": "HuangZhong_png",
+			"type": "image",
+			"url": "assets/Resource/Game/General/wind/HuangZhong.png"
+		},
+		{
+			"name": "WeiYan_png",
+			"type": "image",
+			"url": "assets/Resource/Game/General/wind/WeiYan.png"
+		},
+		{
+			"name": "XiaHouYuan_png",
+			"type": "image",
+			"url": "assets/Resource/Game/General/wind/XiaHouYuan.png"
+		},
+		{
+			"name": "CaoCao_jpg",
+			"type": "image",
+			"url": "assets/Resource/Game/General/std/CaoCao.jpg"
+		},
+		{
+			"name": "DaQiao_png",
+			"type": "image",
+			"url": "assets/Resource/Game/General/std/DaQiao.png"
+		},
+		{
+			"name": "DiaoChan_png",
+			"type": "image",
+			"url": "assets/Resource/Game/General/std/DiaoChan.png"
+		},
+		{
+			"name": "LiuBei_jpg",
+			"type": "image",
+			"url": "assets/Resource/Game/General/std/LiuBei.jpg"
+		},
+		{
+			"name": "XuChu_png",
+			"type": "image",
+			"url": "assets/Resource/Game/General/std/XuChu.png"
+		},
+		{
+			"name": "ZhangLiao_png",
+			"type": "image",
+			"url": "assets/Resource/Game/General/std/ZhangLiao.png"
+		},
+		{
+			"name": "Skill_DaQiaoLiuLi_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_DaQiaoLiuLi_1.mp3"
+		},
+		{
+			"name": "Skill_DaQiaoLiuLi_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_DaQiaoLiuLi_2.mp3"
+		},
+		{
+			"name": "Skill_DiaoChanLiJian_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_DiaoChanLiJian_1.mp3"
+		},
+		{
+			"name": "Skill_DiaoChanLiJian_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_DiaoChanLiJian_2.mp3"
+		},
+		{
+			"name": "Skill_MaChaoTieJi_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_MaChaoTieJi_1.mp3"
+		},
+		{
+			"name": "Skill_MaChaoTieJi_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_MaChaoTieJi_2.mp3"
+		},
+		{
+			"name": "Skill_SunShangXiangXiaoJi_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_SunShangXiangXiaoJi_1.mp3"
+		},
+		{
+			"name": "Skill_XuChuLuoYi_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_XuChuLuoYi_1.mp3"
+		},
+		{
+			"name": "Skill_XuChuLuoYi_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_XuChuLuoYi_2.mp3"
+		},
+		{
+			"name": "Skill_ZhangLiaoTuXi_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhangLiaoTuXi_1.mp3"
+		},
+		{
+			"name": "Skill_ZhangLiaoTuXi_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/stdGeneral/Skill_ZhangLiaoTuXi_2.mp3"
+		},
+		{
+			"name": "XuChu_Dead_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/General/std/XuChu_Dead.mp3"
+		},
+		{
+			"name": "ZhangLiao_Dead_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/General/std/ZhangLiao_Dead.mp3"
+		},
+		{
+			"name": "Skill_XiaHouYuanShenSu_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/wind/Skill_XiaHouYuanShenSu_2.mp3"
+		},
+		{
+			"name": "Skill_HuangZhongLieGong_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/wind/Skill_HuangZhongLieGong_1.mp3"
+		},
+		{
+			"name": "Skill_HuangZhongLieGong_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/wind/Skill_HuangZhongLieGong_2.mp3"
+		},
+		{
+			"name": "Skill_WeiYanKuangGu_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/wind/Skill_WeiYanKuangGu_1.mp3"
+		},
+		{
+			"name": "Skill_WeiYanKuangGu_2_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/wind/Skill_WeiYanKuangGu_2.mp3"
+		},
+		{
+			"name": "Skill_XiaHouYuanShenSu_1_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/Skill/wind/Skill_XiaHouYuanShenSu_1.mp3"
+		},
+		{
+			"name": "HuangZhong_Dead_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/General/wind/HuangZhong_Dead.mp3"
+		},
+		{
+			"name": "WeiYan_Dead_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/General/wind/WeiYan_Dead.mp3"
+		},
+		{
+			"name": "XiaHouYuan_Dead_mp3",
+			"type": "sound",
+			"url": "assets/Resource/Game/Sound/General/wind/XiaHouYuan_Dead.mp3"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="IdentityButtonSkin" width="22" height="16" xmlns:e="http://ns.egret.com/eui" maxHeight="16" maxWidth="22" minHeight="16" minWidth="22">
+	<e:Image id="img_identity" width="22" height="16" x="0" y="0" anchorOffsetY="0" anchorOffsetX="0" source="Identity_Unknown_png"/>
+</e:Skin>

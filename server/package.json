@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./build/server.js",
+  "scripts": {
+    "dev": "node ./build/server.js",
+    "build": "tsc"
+  },
+  "author": "Eraser",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^2.7.2",
+    "tslint": "^5.9.1",
+    "@types/node": "^9.4.6",
+    "@types/socket.io": "^1.4.32",
+    "gulp": "^3.9.1",
+    "gulp-minify": "^2.1.0",
+    "gulp-zip": "^4.1.0"
+  }
+}

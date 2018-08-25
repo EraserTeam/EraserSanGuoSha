@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SkillButtonSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  minHeight="20" minWidth="52" states="up,down,disabled" maxHeight="20" maxWidth="106" width="52" height="20">
+	<e:Image id="img_up" width="100%" height="100%" left="0" source="SkillButton_Normal_Up_png" scale9Grid="25,3,26,20" visible.down="false" visible.disabled="false"/>
+	<e:Image id="img_down" width="100%" height="100%" left="0" source="SkillButton_Normal_Down_png" scale9Grid="25,3,26,20" visible.up="false" visible.disabled="false"/>
+	<e:Image id="img_disabled" width="100%" height="100%" left="0" source="SkillButton_Normal_Disabled_png" scale9Grid="25,3,26,20" visible.up="false" visible.down="false"/>
+	<e:Label id="labelDisplay" text="苦肉" left="20" top="5" right="6" bottom="5" size="12" verticalAlign="middle" textAlign="center" fontFamily="KaiTi" anchorOffsetY.disabled="0" anchorOffsetX="0" anchorOffsetY="0"/>
+</e:Skin>

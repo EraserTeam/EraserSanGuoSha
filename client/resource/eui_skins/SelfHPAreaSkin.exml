@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SelfHPAreaSkin" width="24" height="94" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<e:Image width="100%" height="100%" x="0" y="0" fillMode="scale" source="SelfHPBG_png" locked="true"/>
+	<e:Group id="group_HP" width="100%" height="100%" x="0" y="0" locked="true">
+		<e:Image width="16" height="17" x="4" source="GreenHPBig" fillMode="scale" bottom="3" scaleX="1" scaleY="1"/>
+		<e:Image width="16" height="17" x="4" source="GreenHPBig" fillMode="scale" bottom="20" scaleX="1" scaleY="1"/>
+		<e:Image width="16" height="17" x="4" source="GreenHPBig" fillMode="scale" bottom="37" scaleX="1" scaleY="1"/>
+		<e:Image width="16" height="17" x="4" source="GreenHPBig" fillMode="scale" bottom="54" scaleX="1" scaleY="1"/>
+		<e:Image width="16" height="17" x="4" source="GreenHPBig" fillMode="scale" bottom="71" scaleX="1" scaleY="1"/>
+	</e:Group>
+</e:Skin>

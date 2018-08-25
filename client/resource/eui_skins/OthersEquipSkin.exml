@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="OthersEquipSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  minHeight="10" minWidth="100">
+	<e:Image id="img_equip" width="100%" height="100%" x="0" y="0" source=""/>
+	<e:Image id="img_suit" width="10" height="10" verticalCenter="0" right="1" source=""/>
+	<e:Image id="img_number" width="10" height="10" verticalCenter="-0.5" right="9" source=""/>
+</e:Skin>

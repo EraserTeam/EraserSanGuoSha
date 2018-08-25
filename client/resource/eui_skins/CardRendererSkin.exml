@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="CardRendererSkin" minWidth="68" minHeight="82" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*" height="82" width="68">
+	<e:Group id="group" width="100%" height="100%" x="0" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Image id="img_class" width="100%" height="100%" x="0" y="0" fillMode="scale" source="{data.class}"/>
+		<e:Image id="img_number" width="13" height="11" x="3" y="3" fillMode="scale" source="{data.number}" anchorOffsetX="0" anchorOffsetY="0"/>
+		<e:Image id="img_suit" width="13" height="11" x="3" y="13" source="{data.suit}" fillMode="scale"/>
+		<e:Image id="img_dark" width="100%" height="100%" x="0" y="0" source="Card_CannotUse_png" anchorOffsetX="0" anchorOffsetY="0" fillMode="scale" visible="{data.dark}"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="OverOperationButtonSkin" states="up,down,disabled" minHeight="40" minWidth="75" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  minHeight.up="36" width.up="75">
+    <e:Image width="100%" height="100%" source="OverOperationButton_png" source.down="OverOperationButtonDown_png" source.disabled="OverOperationButtonDisable_png" scale9Grid="28,4,29,27"/>
+    <e:Label id="labelDisplay" top="8" bottom="8" left="8" right="8"
+             size="18"
+             verticalAlign="middle" textAlign="center" text="结束" fontFamily="SimHei" alpha="0.88" textColor="0xffffff" alpha.up="0.7" textColor.up="0xfff2f2"/>
+    <e:Image id="iconDisplay" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>

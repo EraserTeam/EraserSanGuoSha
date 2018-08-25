@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="OthersGameAreaSkin" width="942" height="492" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" >
+	<e:Group id="group_hidden" width="100%" height="100%" x="0" y="0">
+		<ns1:OthersGeneralArea width="139" height="142" y="16" horizontalCenter="0" enabled="false" x="402" scaleX="1" scaleY="1" skinName="OthersGeneralAreaSkin"/>
+		<ns1:OthersGeneralArea width="139" height="142" y="16" horizontalCenter="196.5" enabled="false" x="598" scaleX="1" scaleY="1" skinName="OthersGeneralAreaSkin"/>
+		<ns1:OthersGeneralArea width="139" height="142" y="87" horizontalCenter="381.5" enabled="false" x="783" scaleX="1" scaleY="1" skinName="OthersGeneralAreaSkin"/>
+		<ns1:OthersGeneralArea width="139" height="142" y="246" horizontalCenter="381.5" enabled="false" x="783" scaleX="1" scaleY="1" skinName="OthersGeneralAreaSkin"/>
+		<ns1:OthersGeneralArea width="139" height="142" y="16" enabled="false" x="206" scaleX="1" scaleY="1" skinName="OthersGeneralAreaSkin"/>
+		<ns1:OthersGeneralArea width="139" height="142" y="87" enabled="false" x="21" scaleX="1" scaleY="1" skinName="OthersGeneralAreaSkin"/>
+		<ns1:OthersGeneralArea width="139" height="142" y="246" enabled="false" x="21" scaleX="1" scaleY="1" skinName="OthersGeneralAreaSkin"/>
+	</e:Group>
+</e:Skin>

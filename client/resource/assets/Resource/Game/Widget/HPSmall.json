@@ -1,0 +1,5 @@
+{"file":"HPSmall.png","frames":{
+"BlackHPSmall":{"x":0,"y":0,"w":12,"h":14,"offX":0,"offY":0,"sourceW":12,"sourceH":14},
+"GreenHPSmall":{"x":12,"y":0,"w":12,"h":14,"offX":0,"offY":0,"sourceW":12,"sourceH":14},
+"OrangeHPSmall":{"x":24,"y":0,"w":12,"h":14,"offX":0,"offY":0,"sourceW":12,"sourceH":14},
+"RedHPSmall":{"x":36,"y":0,"w":12,"h":14,"offX":0,"offY":0,"sourceW":12,"sourceH":14}}}

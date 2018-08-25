@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="CardCountLabelSkin" width="25" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  minWidth="25" minHeight="19">
+	<e:Image id="img_bg" width="25" height="19" x="0" y="0" source="QunCardCountBG" fillMode="scale"/>
+	<e:Label id="lb_cardCount" text="0" y="0" width="25" height="15" size="14" textAlign="center" fontFamily="Microsoft YaHei" horizontalCenter="0" verticalAlign="middle" bold="true"/>
+</e:Skin>

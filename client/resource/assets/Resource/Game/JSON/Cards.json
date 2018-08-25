@@ -1,0 +1,650 @@
+[
+    {
+        "cardID": "1",
+        "class": "JueDou",
+        "number": "1",
+        "suit": "2"
+    },
+    {
+        "cardID": "2",
+        "class": "Shan",
+        "number": "2",
+        "suit": "2"
+    },
+    {
+        "cardID": "3",
+        "class": "ShunShouQianYang",
+        "number": "3",
+        "suit": "2"
+    },
+    {
+        "cardID": "4",
+        "class": "ShunShouQianYang",
+        "number": "4",
+        "suit": "2"
+    },
+    {
+        "cardID": "5",
+        "class": "GuanShiFu",
+        "number": "5",
+        "suit": "2"
+    },
+    {
+        "cardID": "6",
+        "class": "Sha",
+        "number": "6",
+        "suit": "2"
+    },
+    {
+        "cardID": "7",
+        "class": "Sha",
+        "number": "7",
+        "suit": "2"
+    },
+    {
+        "cardID": "8",
+        "class": "Sha",
+        "number": "8",
+        "suit": "2"
+    },
+    {
+        "cardID": "9",
+        "class": "Sha",
+        "number": "9",
+        "suit": "2"
+    },
+    {
+        "cardID": "10",
+        "class": "Sha",
+        "number": "10",
+        "suit": "2"
+    },
+    {
+        "cardID": "11",
+        "class": "Shan",
+        "number": "11",
+        "suit": "2"
+    },
+    {
+        "cardID": "12",
+        "class": "FangTianHuaJi",
+        "number": "12",
+        "suit": "2"
+    },
+    {
+        "cardID": "13",
+        "class": "ZiXing",
+        "number": "13",
+        "suit": "2"
+    },
+    {
+        "cardID": "14",
+        "class": "ZhuGeLianNu",
+        "number": "1",
+        "suit": "2"
+    },
+    {
+        "cardID": "15",
+        "class": "Shan",
+        "number": "2",
+        "suit": "2"
+    },
+    {
+        "cardID": "16",
+        "class": "Shan",
+        "number": "3",
+        "suit": "2"
+    },
+    {
+        "cardID": "17",
+        "class": "Shan",
+        "number": "4",
+        "suit": "2"
+    },
+    {
+        "cardID": "18",
+        "class": "Shan",
+        "number": "5",
+        "suit": "2"
+    },
+    {
+        "cardID": "19",
+        "class": "Shan",
+        "number": "6",
+        "suit": "2"
+    },
+    {
+        "cardID": "20",
+        "class": "Shan",
+        "number": "7",
+        "suit": "2"
+    },
+    {
+        "cardID": "21",
+        "class": "Shan",
+        "number": "8",
+        "suit": "2"
+    },
+    {
+        "cardID": "22",
+        "class": "Shan",
+        "number": "9",
+        "suit": "2"
+    },
+    {
+        "cardID": "23",
+        "class": "Shan",
+        "number": "10",
+        "suit": "2"
+    },
+    {
+        "cardID": "24",
+        "class": "Shan",
+        "number": "11",
+        "suit": "2"
+    },
+    {
+        "cardID": "25",
+        "class": "Tao",
+        "number": "12",
+        "suit": "2"
+    },
+    {
+        "cardID": "26",
+        "class": "Sha",
+        "number": "13",
+        "suit": "2"
+    },
+    {
+        "cardID": "27",
+        "class": "WanJianQiFa",
+        "number": "1",
+        "suit": "1"
+    },
+    {
+        "cardID": "28",
+        "class": "Shan",
+        "number": "2",
+        "suit": "1"
+    },
+    {
+        "cardID": "29",
+        "class": "WuGuFengDeng",
+        "number": "3",
+        "suit": "1"
+    },
+    {
+        "cardID": "30",
+        "class": "WuGuFengDeng",
+        "number": "4",
+        "suit": "1"
+    },
+    {
+        "cardID": "31",
+        "class": "ChiTu",
+        "number": "5",
+        "suit": "1"
+    },
+    {
+        "cardID": "32",
+        "class": "LeBuSiShu",
+        "number": "6",
+        "suit": "1"
+    },
+    {
+        "cardID": "33",
+        "class": "WuZhongShengYou",
+        "number": "7",
+        "suit": "1"
+    },
+    {
+        "cardID": "34",
+        "class": "WuZhongShengYou",
+        "number": "8",
+        "suit": "1"
+    },
+    {
+        "cardID": "35",
+        "class": "WuZhongShengYou",
+        "number": "9",
+        "suit": "1"
+    },
+    {
+        "cardID": "36",
+        "class": "Sha",
+        "number": "10",
+        "suit": "1"
+    },
+    {
+        "cardID": "37",
+        "class": "WuZhongShengYou",
+        "number": "11",
+        "suit": "1"
+    },
+    {
+        "cardID": "38",
+        "class": "GuoHeChaiQiao",
+        "number": "12",
+        "suit": "1"
+    },
+    {
+        "cardID": "39",
+        "class": "Shan",
+        "number": "13",
+        "suit": "1"
+    },
+    {
+        "cardID": "40",
+        "class": "TaoYuanJieYi",
+        "number": "1",
+        "suit": "1"
+    },
+    {
+        "cardID": "41",
+        "class": "Shan",
+        "number": "2",
+        "suit": "1"
+    },
+    {
+        "cardID": "42",
+        "class": "Tao",
+        "number": "3",
+        "suit": "1"
+    },
+    {
+        "cardID": "43",
+        "class": "Tao",
+        "number": "4",
+        "suit": "1"
+    },
+    {
+        "cardID": "44",
+        "class": "QiLinGong",
+        "number": "5",
+        "suit": "1"
+    },
+    {
+        "cardID": "45",
+        "class": "Tao",
+        "number": "6",
+        "suit": "1"
+    },
+    {
+        "cardID": "46",
+        "class": "Tao",
+        "number": "7",
+        "suit": "1"
+    },
+    {
+        "cardID": "47",
+        "class": "Tao",
+        "number": "8",
+        "suit": "1"
+    },
+    {
+        "cardID": "48",
+        "class": "Tao",
+        "number": "9",
+        "suit": "1"
+    },
+    {
+        "cardID": "49",
+        "class": "Sha",
+        "number": "10",
+        "suit": "1"
+    },
+    {
+        "cardID": "50",
+        "class": "Sha",
+        "number": "11",
+        "suit": "1"
+    },
+    {
+        "cardID": "51",
+        "class": "Tao",
+        "number": "12",
+        "suit": "1"
+    },
+    {
+        "cardID": "52",
+        "class": "ZhuaHuangFeiDian",
+        "number": "13",
+        "suit": "1"
+    },
+    {
+        "cardID": "53",
+        "class": "JueDou",
+        "number": "1",
+        "suit": "4"
+    },
+    {
+        "cardID": "54",
+        "class": "Sha",
+        "number": "2",
+        "suit": "4"
+    },
+    {
+        "cardID": "55",
+        "class": "Sha",
+        "number": "3",
+        "suit": "4"
+    },
+    {
+        "cardID": "56",
+        "class": "Sha",
+        "number": "4",
+        "suit": "4"
+    },
+    {
+        "cardID": "57",
+        "class": "Sha",
+        "number": "5",
+        "suit": "4"
+    },
+    {
+        "cardID": "58",
+        "class": "Sha",
+        "number": "6",
+        "suit": "4"
+    },
+    {
+        "cardID": "59",
+        "class": "Sha",
+        "number": "7",
+        "suit": "4"
+    },
+    {
+        "cardID": "60",
+        "class": "Sha",
+        "number": "8",
+        "suit": "4"
+    },
+    {
+        "cardID": "61",
+        "class": "Sha",
+        "number": "9",
+        "suit": "4"
+    },
+    {
+        "cardID": "62",
+        "class": "Sha",
+        "number": "10",
+        "suit": "4"
+    },
+    {
+        "cardID": "63",
+        "class": "Sha",
+        "number": "11",
+        "suit": "4"
+    },
+    {
+        "cardID": "64",
+        "class": "WuXieKeJi",
+        "number": "12",
+        "suit": "4"
+    },
+    {
+        "cardID": "65",
+        "class": "WuXieKeJi",
+        "number": "13",
+        "suit": "4"
+    },
+    {
+        "cardID": "66",
+        "class": "ZhuGeLianNu",
+        "number": "1",
+        "suit": "4"
+    },
+    {
+        "cardID": "67",
+        "class": "BaGuaZhen",
+        "number": "2",
+        "suit": "4"
+    },
+    {
+        "cardID": "68",
+        "class": "GuoHeChaiQiao",
+        "number": "3",
+        "suit": "4"
+    },
+    {
+        "cardID": "69",
+        "class": "GuoHeChaiQiao",
+        "number": "4",
+        "suit": "4"
+    },
+    {
+        "cardID": "70",
+        "class": "DiLu",
+        "number": "5",
+        "suit": "4"
+    },
+    {
+        "cardID": "71",
+        "class": "LeBuSiShu",
+        "number": "6",
+        "suit": "4"
+    },
+    {
+        "cardID": "72",
+        "class": "NanManRuQin",
+        "number": "7",
+        "suit": "4"
+    },
+    {
+        "cardID": "73",
+        "class": "Sha",
+        "number": "8",
+        "suit": "4"
+    },
+    {
+        "cardID": "74",
+        "class": "Sha",
+        "number": "9",
+        "suit": "4"
+    },
+    {
+        "cardID": "75",
+        "class": "Sha",
+        "number": "10",
+        "suit": "4"
+    },
+    {
+        "cardID": "76",
+        "class": "Sha",
+        "number": "11",
+        "suit": "4"
+    },
+    {
+        "cardID": "77",
+        "class": "JieDaoShaRen",
+        "number": "12",
+        "suit": "4"
+    },
+    {
+        "cardID": "78",
+        "class": "JieDaoShaRen",
+        "number": "13",
+        "suit": "4"
+    },
+    {
+        "cardID": "79",
+        "class": "JueDou",
+        "number": "1",
+        "suit": "3"
+    },
+    {
+        "cardID": "80",
+        "class": "CiXiongShuangGuJian",
+        "number": "2",
+        "suit": "3"
+    },
+    {
+        "cardID": "81",
+        "class": "ShunShouQianYang",
+        "number": "3",
+        "suit": "3"
+    },
+    {
+        "cardID": "82",
+        "class": "ShunShouQianYang",
+        "number": "4",
+        "suit": "3"
+    },
+    {
+        "cardID": "83",
+        "class": "JueYing",
+        "number": "5",
+        "suit": "3"
+    },
+    {
+        "cardID": "84",
+        "class": "QingGangJian",
+        "number": "6",
+        "suit": "3"
+    },
+    {
+        "cardID": "85",
+        "class": "Sha",
+        "number": "7",
+        "suit": "3"
+    },
+    {
+        "cardID": "86",
+        "class": "Sha",
+        "number": "8",
+        "suit": "3"
+    },
+    {
+        "cardID": "87",
+        "class": "Sha",
+        "number": "9",
+        "suit": "3"
+    },
+    {
+        "cardID": "88",
+        "class": "Sha",
+        "number": "10",
+        "suit": "3"
+    },
+    {
+        "cardID": "89",
+        "class": "ShunShouQianYang",
+        "number": "11",
+        "suit": "3"
+    },
+    {
+        "cardID": "90",
+        "class": "GuoHeChaiQiao",
+        "number": "12",
+        "suit": "3"
+    },
+    {
+        "cardID": "91",
+        "class": "NanManRuQin",
+        "number": "13",
+        "suit": "3"
+    },
+    {
+        "cardID": "92",
+        "class": "ShanDian",
+        "number": "1",
+        "suit": "3"
+    },
+    {
+        "cardID": "93",
+        "class": "BaGuaZhen",
+        "number": "2",
+        "suit": "3"
+    },
+    {
+        "cardID": "94",
+        "class": "GuoHeChaiQiao",
+        "number": "3",
+        "suit": "3"
+    },
+    {
+        "cardID": "95",
+        "class": "GuoHeChaiQiao",
+        "number": "4",
+        "suit": "3"
+    },
+    {
+        "cardID": "96",
+        "class": "QingLongYanYueDao",
+        "number": "5",
+        "suit": "3"
+    },
+    {
+        "cardID": "97",
+        "class": "LeBuSiShu",
+        "number": "6",
+        "suit": "3"
+    },
+    {
+        "cardID": "98",
+        "class": "NanManRuQin",
+        "number": "7",
+        "suit": "3"
+    },
+    {
+        "cardID": "99",
+        "class": "Sha",
+        "number": "8",
+        "suit": "3"
+    },
+    {
+        "cardID": "100",
+        "class": "Sha",
+        "number": "9",
+        "suit": "3"
+    },
+    {
+        "cardID": "101",
+        "class": "Sha",
+        "number": "10",
+        "suit": "3"
+    },
+    {
+        "cardID": "102",
+        "class": "WuXieKeJi",
+        "number": "11",
+        "suit": "3"
+    },
+    {
+        "cardID": "103",
+        "class": "ZhangBaSheMao",
+        "number": "12",
+        "suit": "3"
+    },
+    {
+        "cardID": "104",
+        "class": "DaYuan",
+        "number": "13",
+        "suit": "3"
+    },
+    {
+        "cardID": "105",
+        "class": "ShanDian",
+        "number": "12",
+        "suit": "1"
+    },
+    {
+        "cardID": "106",
+        "class": "WuXieKeJi",
+        "number": "12",
+        "suit": "2"
+    },
+    {
+        "cardID": "107",
+        "class": "RenWangDun",
+        "number": "2",
+        "suit": "4"
+    },
+    {
+        "cardID": "108",
+        "class": "HanBingJian",
+        "number": "2",
+        "suit": "3"
+    }
+]

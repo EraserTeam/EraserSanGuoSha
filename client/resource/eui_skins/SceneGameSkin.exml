@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SceneGameSkin" width="1136" height="610" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Image id="img_bg" width="100%" height="100%" x="0" y="0" fillMode="scale" source="Background1_png"/>
+	<ns1:SelfGameArea id="selfGameArea" width="1136" height="118" x="0" bottom="0" skinName="SelfGameAreaSkin"/>
+	<ns1:GameSidebarArea width="194" height="491" top="0" right="0" skinName="GameSidebarAreaSkin"/>
+	<ns1:OthersGameArea id="othersGameArea" width="942" height="492" anchorOffsetX="0" anchorOffsetY="0" left="0" top="0"/>
+	<ns1:OperationArea id="operationArea" width="942" height="36" anchorOffsetX="0" anchorOffsetY="0" x="0" skinName="OperationAreaSkin" y="470"/>
+	<e:Label id="lb_tip" text="" x="0" y="426" size="40" anchorOffsetX="0" width="1884" anchorOffsetY="0" height="40" verticalAlign="middle" textAlign="center" strokeColor="0x07324e" stroke="0" textColor="0xffffff" fontFamily="Microsoft YaHei" bold="true" scaleX="0.5" scaleY="0.5"/>
+	<e:Group id="group_movingCards" width="100%" height="100%" x="0" y="0" touchThrough="true" touchEnabled="false">
+	</e:Group>
+	<e:Group id="group_top" width="100%" height="100%" x="0" y="0" touchThrough="true" touchEnabled="false">
+	</e:Group>
+</e:Skin>
