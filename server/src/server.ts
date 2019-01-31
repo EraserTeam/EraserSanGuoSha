@@ -12,6 +12,6 @@ io.on('connection', (socket: SocketIO.Socket) => {
     Game.onConnect(socket);
 });
 
-http.listen(43666, () => {
+http.listen(process.env.PORT || 43666, () => {
     Game.onBeginListening();
 });

@@ -34,8 +34,10 @@ class Game {
     public static askings: any = {};
     public static modes: any = {};
     public static init() {
-        room = new Room();
-        console.log(room.id);
+        if (!process.env.PORT) {
+            room = new Room();
+            console.log(room.id);
+        }
         Predefined.init();
         let cardPackages = PackageLoader.loadCardPackages();
         cardPackages.forEach(func => {
@@ -57,12 +59,55 @@ class Game {
         console.log('a user connected');
         let user: User = new User(socket);
         socket.on('disconnect', () => {
+            let room = user.room;
             User.delete(user);
             console.log('a user disconnected');
+            if (process.env.PORT) {
+                if (room) {
+                    Room.delete(room);
+                }
+            }
+        });
+        socket.on('create room', () => {
+            if (user.room) {
+                // TODO:write code here
+            } else {
+                let room = new Room();
+                user.joinRoom(room.id);
+            }
+        });
+        socket.on('get room list', () => {
+            let allRoomInfo = Room.all.map(room => ({
+                roomID: room.id,
+                playerCount: room.playerCount,
+                maxPlayerCount: room.maxPlayerCount,
+            }));
+            socket.emit('room list', allRoomInfo);
         });
         socket.on('join room', (roomID: number) => {
-            user.joinRoom(room.id);
-            socket.emit('join room', room.id);
+            if (!process.env.PORT) {
+                user.joinRoom(room.id);
+            } else {
+                let room = Room.getRoom(roomID);
+                if (!room) {
+                    // TODO:write code here
+                } else if (room.playerCount >= room.maxPlayerCount) {
+                    // TODO:write code here
+                } else if (user.room) {
+                    // TODO:write code here
+                } else {
+                    user.joinRoom(room.id);
+                }
+            }
+        });
+        socket.on('leave room', () => {
+            if (!user.room) {
+                // TODO:write code here
+            } else if (user.room.playerCount >= user.room.maxPlayerCount) {
+                // TODO:write code here
+            } else {
+                user.leaveRoom();
+            }
         });
     }
     public static getCardByID(id: number): ICardInfo {

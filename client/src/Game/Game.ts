@@ -1,4 +1,5 @@
 class Game {
+    public static local = true;
     public static socket: SocketIOClient.Socket;
     public static cards: ICardInfo[];
     public static unknownCard: ICardInfo = {
@@ -26,8 +27,11 @@ class Game {
     private static initJSON() {
         this.cards = RES.getRes('Cards_json');
     }
-    private static initSocket() {
-        this.socket = io.connect('127.0.0.1:43666');
+    public static initSocket() {
+        if (Game.local)
+            this.socket = io.connect('127.0.0.1:43666');
+        else
+            this.socket = io.connect('https://eraser-sanguosha.herokuapp.com/');
     }
     public static getCardByID(id: number): ICardInfo {
         if (id == 0) return Game.unknownCard;

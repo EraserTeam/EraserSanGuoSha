@@ -90,6 +90,10 @@ class Room {
     }
     private initSocket() {
         this.socket.on('game begin', (playerCount: number) => {
+            if (UI.sceneRoom.parent) {
+				UI.sceneRoom.parent.addChild(UI.sceneGame);
+				UI.sceneRoom.parent.removeChild(UI.sceneRoom);
+            }
             UI.others.gameArea.initGeneralAreas(playerCount);
             this.initGame();
         });
@@ -315,7 +319,8 @@ class Room {
         this.socket.on('play effect', data => {
             this.playEffect(this.players[data.seatID], `Effect_${data.name}`, data.pos);
         });
-        this.socket.emit('join room', '1111');
+        if (Game.local)
+            this.socket.emit('join room', '1111');
     }
     private moveCardEffect(data: IMoveCardData) {
         let fromSelf = data.fromSeatID == this.selfPlayer.seatID;

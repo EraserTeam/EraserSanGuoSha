@@ -13,7 +13,11 @@
     "eui.VScrollBar": "resource/eui_skins/VScrollBarSkin.exml",
     "eui.VSlider": "resource/eui_skins/VSliderSkin.exml",
     "eui.ItemRenderer": "resource/eui_skins/ItemRendererSkin.exml",
-    "OthersEquip": "resource/eui_skins/OthersEquipSkin.exml"
+    "OthersEquip": "resource/eui_skins/OthersEquipSkin.exml",
+    "SceneLobby": "resource/eui_skins/SceneLobbySkin.exml",
+    "RoomListItemRenderer": "resource/eui_skins/RoomListItemRendererSkin.exml",
+    "SceneWaitingRoom": "resource/eui_skins/SceneWaitingRoomSkin.exml",
+    "SceneRoom": "resource/eui_skins/SceneRoomSkin.exml"
   },
   "autoGenerateExmlsList": true,
   "exmls": [
@@ -38,11 +42,14 @@
     "resource/eui_skins/PanelSkin.exml",
     "resource/eui_skins/ProgressBarSkin.exml",
     "resource/eui_skins/RadioButtonSkin.exml",
+    "resource/eui_skins/RoomListItemRendererSkin.exml",
     "resource/eui_skins/SelfHPAreaSkin.exml",
     "resource/eui_skins/SelfGeneralAreaSkin.exml",
     "resource/eui_skins/ScrollerSkin.exml",
     "resource/eui_skins/SelfGameAreaSkin.exml",
     "resource/eui_skins/SceneGameSkin.exml",
+    "resource/eui_skins/SceneLobbySkin.exml",
+    "resource/eui_skins/SceneRoomSkin.exml",
     "resource/eui_skins/SelfEquipSkin.exml",
     "resource/eui_skins/SkillButtonSkin.exml",
     "resource/eui_skins/TextInputSkin.exml",

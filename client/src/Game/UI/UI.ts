@@ -1,4 +1,10 @@
 class UI {
+    public static get sceneLobby() {
+        return SceneLobby.instance;
+    }
+    public static get sceneRoom() {
+        return SceneRoom.instance;
+    }
     public static get sceneGame() {
         return SceneGame.instance;
     }

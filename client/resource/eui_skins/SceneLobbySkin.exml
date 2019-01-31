@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SceneLobbySkin" width="1136" height="610" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<e:List id="list_roomList" width="320" height="360" anchorOffsetX="0" anchorOffsetY="0" itemRendererSkinName="RoomListItemRendererSkin" y="20" x="408">
+	</e:List>
+	<e:Button id="btn_createRoom" label="创建房间" anchorOffsetX="0" width="320" anchorOffsetY="0" height="70" y="530" x="408"/>
+	<e:Button id="btn_joinRoom" label="加入房间" anchorOffsetX="0" width="320" anchorOffsetY="0" height="70" y="460" x="408"/>
+	<e:Button id="btn_refreshRoomList" label="刷新列表" anchorOffsetX="0" width="320" anchorOffsetY="0" height="70" y="390" x="408"/>
+</e:Skin>

@@ -18,6 +18,7 @@ import RequireType from './RequireType';
 import Round from './Round';
 import { Sockets } from './Socket';
 import Suit from './Suit';
+import User from './User';
 import * as Util from './Util';
 import Zone from './Zone';
 class Room {
@@ -71,6 +72,11 @@ class Room {
             Room.all.splice(i, 1);
             Room.idRange.push(room.id);
         }
+        [...room.users].forEach(user => {
+            if (user instanceof User) {
+                user.leaveRoom();
+            }
+        });
     }
     public static getRoom(id: number): Room | undefined {
         return Room.all.find(room => room.id == id);

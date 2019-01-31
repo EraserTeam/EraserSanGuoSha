@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SceneRoomSkin" width="1136" height="610" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+	<e:Label id="lb_roomInfo" text="0   (1/2)" y="270" anchorOffsetX="0" width="274" anchorOffsetY="0" height="36" horizontalCenter="0"  textAlign="center"/>
+	<e:Button id="btn_leaveRoom" label="离开房间" y="340" anchorOffsetX="0" width="220"  horizontalCenter="0.5"/>
+</e:Skin>

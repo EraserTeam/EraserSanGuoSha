@@ -27,7 +27,6 @@ class SceneGame extends eui.Component {
     private onComplete() {
         this.lb_tip.filters = [GlowFilter.tipBorderGlow];
         Sound.playBGM();
-        Game.init();
     }
     public clearPlayerSelect() {
         Game.room.players.forEach(player => {
